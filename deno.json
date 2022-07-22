@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "start": "deno run --allow-net --watch main.tsx"
+  },
+  "fmt": {
+    "options": {
+      "lineWidth": 120
+    }
+  }
+}
