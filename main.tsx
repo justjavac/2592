@@ -37,7 +37,7 @@ for (let i = 1; i <= 9; i++) {
 
 const handler = (_req: Request) =>
   html({
-    title: "Hello World!",
+    title: "2592",
     body: (
       <div
         class="flex flex-col items-center justify-center w-full h-screen"
