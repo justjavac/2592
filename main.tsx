@@ -6,7 +6,7 @@
 /// <reference lib="dom.asynciterable" />
 /// <reference lib="deno.ns" />
 
-import { serve } from "https://deno.land/std@0.150.0/http/server.ts";
+import { serve } from "https://deno.land/std@0.152.0/http/server.ts";
 import { Fragment, h, html } from "https://deno.land/x/htm@0.0.10/mod.tsx";
 import { UnoCSS } from "https://deno.land/x/htm@0.0.10/plugins.ts";
 
